@@ -1,0 +1,9 @@
+1. Giải nén folder collect_data_package.
+2. Mở folder đó.
+3. Double-click run_collect.bat.
+4. Khi webcam mở:
+   - Nhấn r để lưu ảnh REAL: mặt người thật trước camera.
+   - Nhấn f để lưu ảnh FAKE: ảnh mặt trên điện thoại, màn hình, ảnh in, video replay.
+   - Nhấn q để thoát.
+5. Sau khi thu xong, nén và gửi lại folder:
+   datasets/webcam_spoof_cls/train/
